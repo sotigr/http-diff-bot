@@ -1,0 +1,7 @@
+{
+    "verbose": true, 
+    "ext": "ts,json",
+    "exec": "npm run start || exit 1",
+    "ignore": "media/*",
+    "signal": "SIGTERM" 
+}

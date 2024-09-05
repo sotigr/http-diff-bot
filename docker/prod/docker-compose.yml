@@ -1,0 +1,5 @@
+services:
+  http-diff-bot:   
+    build: 
+      context: ../../
+      dockerfile: docker/prod/Dockerfile
